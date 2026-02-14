@@ -1,0 +1,14 @@
+{
+  "name": "advocate-chatbot-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Advocate Assistant chatbot",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "keywords": ["chatbot", "vercel", "api"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
